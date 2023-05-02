@@ -1,7 +1,6 @@
 # Moppi0725(Tomoki Otsuka)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,go,py)](https://skillicons.dev)
 
-### Hi there 👋
 
 <!--
 **Moppi0725/Moppi0725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
