@@ -1,6 +1,7 @@
 # Moppi0725(Tomoki Otsuka)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,go,py)](https://skillicons.dev)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moppi0725&count_private=true&show_icons=true&theme=tokyonight)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Moppi0725&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
