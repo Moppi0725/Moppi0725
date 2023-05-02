@@ -1,6 +1,5 @@
-### こんにちは！
-京都産業大学　情報理工学部　中島研究室所属
-
+# Moppi0725(Tomoki Otsuka)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Hi there 👋
 
