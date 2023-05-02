@@ -1,5 +1,6 @@
 # Moppi0725(Tomoki Otsuka)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,go,py)](https://skillicons.dev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMoppi0725=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
